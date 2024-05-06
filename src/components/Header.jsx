@@ -1,4 +1,4 @@
-import { useLocation } from "react-router-dom";
+import {  useLocation } from "react-router-dom";
 import { disablePageScroll, enablePageScroll } from "scroll-lock";
 
 import { brainwave } from "../assets";
